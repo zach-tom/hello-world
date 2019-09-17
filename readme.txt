@@ -1,1 +1,2 @@
-Hello my name is Zachy
+Hello my name is Zach
+This is git
